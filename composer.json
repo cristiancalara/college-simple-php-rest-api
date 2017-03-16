@@ -1,0 +1,7 @@
+{
+    "name": "root/demo-api",
+    "require": {
+        "illuminate/database": "^5.4",
+        "vlucas/valitron": "^1.4"
+    }
+}
